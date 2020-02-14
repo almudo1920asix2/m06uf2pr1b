@@ -1,0 +1,3 @@
+Programa: copiaseguretat.sh
+Permisos: chmod 700 copiaseguretat.sh
+Execució: ./copiaseguretat.sh
